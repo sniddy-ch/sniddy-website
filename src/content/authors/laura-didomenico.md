@@ -1,6 +1,6 @@
 ---
-title: Mark Dinn
-image: /images/authors/mark-dinn.jpg
+title: Laura Di Domenico
+image: /images/authors/laura-didomenico.jpg
 description: this is meta description
 social:
   facebook: https://www.facebook.com/

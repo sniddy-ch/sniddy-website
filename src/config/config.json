@@ -1,11 +1,11 @@
 {
   "site": {
-    "title": "Bookworm Light Astro | Blog Template",
+    "title": "SNIDDY",
     "base_url": "https://bookworm-light-astro.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
+    "logo": "/images/logo2.png",
     "logo_width": "200",
     "logo_height": "34",
     "logo_text": "Bookworm Light"
@@ -24,12 +24,12 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Copyright © 2024 a theme by [Themefisher](https://themefisher.com)"
   },
 
   "contactinfo": {
-    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
-    "email": "info@bookworm.org",
-    "phone": "+800 567 1234"
+    "address": "Bern",
+    "email": "info@sniddy.ch",
+    "phone": "+XXX"
   }
 }

@@ -1,11 +1,11 @@
 ---
-title: What you need to know about Photography
+title: Postdoc opportunity in Geneva
 description: "meta description"
-date: 2022-04-03T06:00:00+00:00
+date: 2024-04-03T06:00:00+00:00
 image: "/images/posts/03.jpg"
-categories: ["art"]
-authors: ["Mark Dinn"]
-tags: ["diy", "toy"]
+categories: ["jobs"]
+authors: ["Megan O'Driscoll"]
+tags: ["geneva", "toy"]
 draft: false
 ---
 

@@ -1,23 +1,21 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, Currently at Bookworm"
+title: "The Swiss Network for Infectious Disease Dynamics (SNIDDY)"
 meta_title: "About"
 image: "/images/author.png"
 draft: false
 
 what_i_do:
-  title: "What I Do"
+  title: "What We Do"
   items:
-  - title: "Content Writing"
+  - title: "Research"
     description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
   
-  - title: "Photography"
+  - title: "Dissemination"
     description: "Aenean maximus urna magna elementum, quis rutrum mi semper non purus eget ipsum venenatis."
   
-  - title: "Web Research"
+  - title: "Support policy"
     description: "Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis."
 
 ---
 
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis quis non purus.
-
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis, aenean maximus urna magna elementum.
+A scientific association regrouping scientists studying infectious dynamics with a link to Switzerland.

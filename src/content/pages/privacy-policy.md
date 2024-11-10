@@ -1,5 +1,5 @@
 ---
-title: "Privacy"
+title: "Statutes"
 description: "this is meta description"
 draft: false
 ---

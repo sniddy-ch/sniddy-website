@@ -1,13 +1,15 @@
 ---
-title: Why a balloon is a flexible bag
+title: Planning and adjusting the COVID-19 booster vaccination campaign to reduce disease burden
 description: "meta description"
-date: 2022-04-02T05:00:00Z
-image: "/images/posts/02.jpg"
-categories: ["development"]
-authors: ["John Doe"]
-tags: ["diy", "toy"]
+date: 2024-04-02T05:00:00Z
+image: "/images/posts/didomenico2025planning.png"
+categories: ["featured papers"]
+authors: ["Laura Di Domenico"]
+tags: ["sars-cov-2", "vaccination"]
 draft: false
 ---
+
+https://www.sciencedirect.com/science/article/pii/S2468042724001015
 
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 

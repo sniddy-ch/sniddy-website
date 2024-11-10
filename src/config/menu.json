@@ -1,25 +1,13 @@
 {
   "main": [
     {
-      "name": "Home",
-      "url": "/"
-    },
-    {
-      "name": "About",
-      "url": "/about"
-    },
-    {
-      "name": "Contact",
-      "url": "/contact"
-    },
-    {
-      "name": "Pages",
+      "name": "Blog",
       "url": "",
       "hasChildren": true,
       "children": [
         {
-          "name": "Authors",
-          "url": "/authors"
+          "name": "Home",
+          "url": "/"
         },
         {
           "name": "Categories",
@@ -28,16 +16,32 @@
         {
           "name": "Tags",
           "url": "/tags"
+        }
+      ]
+    },
+    {
+      "name": "Network",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Members",
+          "url": "/authors"
         },
         {
-          "name": "Elements",
-          "url": "/elements"
-        },
-        {
-          "name": "Privacy Policy",
+          "name": "Statutes",
           "url": "/privacy-policy"
         }
       ]
+    },
+    
+    {
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
     }
   ],
   "footer": [
@@ -50,11 +54,7 @@
       "url": "/contact"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
-    },
-    {
-      "name": "Privacy Policy",
+      "name": "Statutes",
       "url": "/privacy-policy"
     }
   ]

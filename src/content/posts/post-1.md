@@ -1,11 +1,11 @@
 ---
-title: "How to make toys from old Olarpaper"
+title: "Avian flu update"
 description: "meta description"
-date: 2022-04-01T05:00:00Z
-image: "/images/posts/01.jpg"
-categories: ["art"]
-authors: ["Mark Dinn"]
-tags: ["diy", "toy"]
+date: 2024-11-10T05:00:00Z
+image: "/images/posts/avianflu.jpg"
+categories: ["current events"]
+authors: ["Joseph Lemaitre"]
+tags: ["influenza", "emergence"]
 draft: false
 ---
 
@@ -13,7 +13,7 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
-## Creative Design
+## WHO says
 
 Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
