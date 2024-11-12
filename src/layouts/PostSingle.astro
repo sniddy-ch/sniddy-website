@@ -2,6 +2,7 @@
 import { Image } from "astro:assets";
 import Share from "@/components/Share.astro";
 import SimilarPosts from "@/components/SimilarPosts.astro";
+import PostComments from "@/components/PostComments.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import dateFormat from "@/lib/utils/dateFormat";
 import similerItems from "@/lib/utils/similarItems";
@@ -119,6 +120,7 @@ const { title, description, authors, categories, image, date, tags } =
         </div>
       </div>
     </article>
+    <PostComments />
   </div>
 </section>
 
