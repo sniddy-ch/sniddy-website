@@ -6,7 +6,7 @@
       "hasChildren": true,
       "children": [
         {
-          "name": "Home",
+          "name": "Latest",
           "url": "/"
         },
         {
@@ -20,13 +20,21 @@
       ]
     },
     {
-      "name": "Network",
+      "name": "Association",
       "url": "",
       "hasChildren": true,
       "children": [
         {
           "name": "Members",
           "url": "/authors"
+        },
+        {
+          "name": "Executive board",
+          "url": "/board"
+        },
+        {
+          "name": "Research groups",
+          "url": "/groups"
         },
         {
           "name": "Statutes",
