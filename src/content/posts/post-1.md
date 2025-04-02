@@ -1,22 +1,12 @@
 ---
-title: "Avian flu update"
+title: "The Swiss Network for Infectious Disease Dynamics"
 description: "meta description"
-date: 2024-11-10T05:00:00Z
-image: "/images/posts/avianflu.jpg"
+date: 2025-04-02T20:00:00Z
+image: "/images/posts/intro.jpg"
 categories: ["current events"]
-authors: ["Joseph Lemaitre"]
-tags: ["influenza", "emergence"]
+authors: ["Julien Riou"]
+tags: ["us"]
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-## WHO says
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+The **Swiss Network for Infectious Disease Dynamics** is a scientific association that unites researchers, practitioners, and students working in—or maintaining strong ties to—Switzerland in the fields of infectious disease dynamics, modeling, and epidemiology. It emerged from the Swiss Meeting for Infectious Disease Dynamics (SMIDDY), a yearly seminar launched in 2010 to foster collaboration and exchange of ideas among experts. By providing a forum for interdisciplinary dialogue and joint research, the Swiss Network for Infectious Disease Dynamics helps strengthen the country’s capacity to understand, model, and respond to infectious disease threats at both national and international levels.
