@@ -20,6 +20,17 @@
       ]
     },
     {
+      "name": "SMIDDY",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "2025",
+          "url": "/smiddy_2025"
+        }
+      ]
+    },
+    {
       "name": "Association",
       "url": "",
       "hasChildren": true,
@@ -31,10 +42,6 @@
         {
           "name": "Executive board",
           "url": "/board"
-        },
-        {
-          "name": "Research groups",
-          "url": "/groups"
         },
         {
           "name": "Statutes",

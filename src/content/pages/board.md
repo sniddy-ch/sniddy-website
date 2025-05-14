@@ -1,26 +1,9 @@
 ---
-title: "Executive board"
+title: "Executive board (2025-2026)"
 description: "SNIDDY board"
 draft: false
 ---
 
-The executive board is elected every two years and...
-
-#### Current members (reverse alphabetical order of first names)
-
-Megan O'Driscoll
-
-Laura Di Domenico
-
-Katharina Kusejko
-
-Julien Riou
-
-Joseph Lemaitre
-
-Christian Althaus (chair)
-
-
-
+![Alt text](/images/2025_board.png)
 
 

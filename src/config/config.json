@@ -5,7 +5,7 @@
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
-    "logo": "/images/logo2.png",
+    "logo": "/images/logo.png",
     "logo_width": "200",
     "logo_height": "34",
     "logo_text": "Bookworm Light"
@@ -29,7 +29,6 @@
 
   "contactinfo": {
     "address": "Bern",
-    "email": "info@sniddy.ch",
-    "phone": "+XXX"
+    "email": "info@sniddy.ch"
   }
 }
