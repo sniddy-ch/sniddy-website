@@ -1,0 +1,84 @@
+---
+import fs from "fs/promises";
+import path from "path";
+
+import config from "@/config/config.json";
+import Base from "@/layouts/Base.astro";
+import { markdownify } from "@/lib/utils/textConverter";
+import { getEntryBySlug } from "astro:content";
+
+const entry = await getEntryBySlug("pages", "contact");
+const { contact_form_action } = config.params;
+
+let success = false;
+
+if (Astro.request.method === "POST") {
+  try {
+    const data = await Astro.request.formData();
+    const name = data.get("name");
+    const email = data.get("email");
+    const github = data.get("github");
+    const affil = data.get("affil");
+    const message = data.get("message");
+    
+    const member = {
+      name,
+      email,
+      github,
+      affiliation: affil,
+      presentation: message,
+      submittedAt: new Date().toISOString()
+    };
+
+    const filePath = path.resolve("data/members.json");
+    let existing = [];
+
+    try {
+      const file = await fs.readFile(filePath, "utf-8");
+      existing = JSON.parse(file);
+    } catch (e) {
+      existing = [];
+    }
+
+    existing.push(member);
+    await fs.writeFile(filePath, JSON.stringify(existing, null, 2));
+    success = true;
+  } catch (error) {
+    if (error instanceof Error) {
+      console.error(error.message);
+    }
+  }
+}
+
+const title = "Become a member";
+const meta_title = "Register as a member";
+const description = "Join our scientific community by becoming a member today.";
+const image = entry.data.image;
+---
+
+
+<Base title={title} meta_title={meta_title} description={description} image={image}>
+  <section class="section">
+    <div class="container">
+      <h1 class="h2 page-heading">{title}</h1>
+
+    <div class="flex justify-center">
+      <ul class="mb-8 space-y-4 text-theme-dark text-lg">
+        <li class="flex items-start gap-2">
+          <span class="text-blue-600 mt-1">🤝</span>
+          <span>Connect with peers, mentors, and leaders in your field!</span>
+        </li>
+        <li class="flex items-start gap-2">
+          <span class="text-blue-600 mt-1">🚀</span>
+          <span>Get feedback, exchange ideas, access resources!</span>
+        </li>
+        <li class="flex items-start gap-2">
+          <span class="text-blue-600 mt-1">🎓</span>
+          <span>Contribute to scientific progress and community impact!</span>
+        </li>
+      </ul>
+    </div>
+   
+    </div>
+  </section>
+</Base>

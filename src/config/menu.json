@@ -20,39 +20,42 @@
       ]
     },
     {
-      "name": "SMIDDY",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "2025",
-          "url": "/smiddy_2025"
-        }
-      ]
-    },
-    {
       "name": "Association",
       "url": "",
       "hasChildren": true,
       "children": [
         {
-          "name": "Members",
-          "url": "/authors"
+          "name": "About us",
+          "url": "/about"
         },
         {
           "name": "Executive board",
           "url": "/board"
         },
         {
+          "name": "Current members",
+          "url": "/authors"
+        },
+        {
           "name": "Statutes",
           "url": "/privacy-policy"
+        },
+        {
+          "name": "Become a member",
+          "url": "/joinus"
         }
       ]
     },
-    
     {
-      "name": "About",
-      "url": "/about"
+      "name": "SMIDDY conference",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "2025 edition",
+          "url": "/smiddy_2025"
+        }
+      ]
     },
     {
       "name": "Contact",
@@ -61,7 +64,7 @@
   ],
   "footer": [
     {
-      "name": "About",
+      "name": "About us",
       "url": "/about"
     },
     {
