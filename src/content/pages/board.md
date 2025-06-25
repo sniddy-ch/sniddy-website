@@ -4,6 +4,6 @@ description: "SNIDDY board"
 draft: false
 ---
 
-![Alt text](/images/2025_board.png)
+![Alt text](/images/2025_board.jpg)
 
 
