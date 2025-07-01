@@ -10,12 +10,11 @@ draft: false
 
 <p align="center"> at the 🏛️ University of Zurich!</p>
 
-SMIDDY is a **one-day meeting** focused on the 🧮 **mathematical**, 💻 **computational**, and 📊 **statistical** modeling of infectious diseases.  
-It brings together researchers from across Switzerland and abroad, spanning **fundamental research** to **public health policy-making**.
+SMIDDY is a **one-day meeting** focused on the 🧮 **mathematical**, 💻 **computational**, and 📊 **statistical** modeling of infectious diseases. It brings together researchers from across Switzerland and abroad, spanning **fundamental research** to **public health policy-making**.
 
 Abstract submission and registration deadline: 
 
 <p align="center"> 📅 Friday, September 5th</p>
 
-<p align="center"> 👉👉 [Submit your abstract and register here](https://redcap.shcs.ch/surveys/?s=CD9HNL7P7KDHKRXY)</p>
+👉👉 [Submit your abstract and register here](https://redcap.shcs.ch/surveys/?s=CD9HNL7P7KDHKRXY)
 
