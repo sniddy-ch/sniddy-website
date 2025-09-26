@@ -4,17 +4,21 @@ description: "SMIDDY 2025"
 draft: false
 ---
 
-🎉 We’re excited to announce that the Swiss Meeting for Infectious Disease Dynamics (SMIDDY2025) will take place on 
+🎉 The Swiss Meeting for Infectious Disease Dynamics (SMIDDY2025) will take place on 
 
 <p align="center"> 📅 Friday, October 31st </p>
 
-<p align="center"> at the 🏛️ University of Zurich!</p>
+<p align="center"> at the 🏛️ University of Zurich, Rämistrasse 59.</p>
 
 SMIDDY is a **one-day meeting** focused on the 🧮 **mathematical**, 💻 **computational**, and 📊 **statistical** modeling of infectious diseases. It brings together researchers from across Switzerland and abroad, spanning **fundamental research** to **public health policy-making**. The meeting is free of charge.
 
-Abstract submission and registration deadline: 
+What can you expect from SMIDDY 2025?
 
-<p align="center"> 📅 Friday, September 5th</p>
+•	We are thrilled to welcome our two keynote speakers: **James Hay** will join us from the University of Oxford, and **Eva Bons** will join us from the European Centre for Disease Prevention and Control.
 
-👉👉 [Submit your abstract and register here](https://redcap.shcs.ch/surveys/?s=CD9HNL7P7KDHKRXY)
+•	Check out the [preliminary agenda](/docs/SMIDDYAgenda2025.pdf).
+
+•	Location: **Rämistrasse 59, 8001 Zürich, second floor (RAA-G-01)**. The easiest way from Zurich main station is to take tram number 3 to Kunsthaus, and walk up 5 minutes."
+
+
 
