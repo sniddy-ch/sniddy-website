@@ -10,7 +10,7 @@ draft: false
 
 <p align="center"> at the 🏛️ University of Zurich, Rämistrasse 59.</p>
 
-SMIDDY is a **one-day meeting** focused on the 🧮 **mathematical**, 💻 **computational**, and 📊 **statistical** modeling of infectious diseases. It brings together researchers from across Switzerland and abroad, spanning **fundamental research** to **public health policy-making**. The meeting is free of charge.
+SMIDDY is a **one-day meeting** focused on the 🧮 **mathematical**, 💻 **computational**, and 📊 **statistical** modeling of infectious diseases. It brings together researchers from across Switzerland and abroad, spanning **fundamental research** to **public health policy-making**. The meeting is free of charge **(registration is closed)**.
 
 What can you expect from SMIDDY 2025?
 
@@ -19,6 +19,12 @@ What can you expect from SMIDDY 2025?
 •	Check out the [preliminary agenda](/docs/SMIDDYAgenda2025.pdf).
 
 •	Location: **Rämistrasse 59, 8001 Zürich, second floor (RAA-G-01)**. The easiest way from Zurich main station is to take tram number 3 to Kunsthaus, and walk up 5 minutes."
+
+We are looking forward to welcome you at SMIDDY 2025. 
+
+Anna Bot and Katharina Kusejko, 
+SMIDDY organizing committee
+
 
 
 
