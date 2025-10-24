@@ -1,6 +1,5 @@
 ---
 title: "The Swiss Network for Infectious Disease Dynamics"
-description: "meta description"
 date: 2025-04-02T20:00:00Z
 image: "/images/logo.png"
 categories: ["current events"]
