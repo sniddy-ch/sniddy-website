@@ -1,3 +1,3 @@
 ---
-title: "Members"
+title: "Contributing members"
 ---
