@@ -33,7 +33,7 @@
           "url": "/board"
         },
         {
-          "name": "Active members",
+          "name": "Contributing members",
           "url": "/authors"
         },
         {
@@ -41,7 +41,7 @@
           "url": "/privacy-policy"
         },
         {
-          "name": "Request membership",
+          "name": "Apply for membership",
           "url": "/joinus"
         }
       ]
