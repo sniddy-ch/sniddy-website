@@ -16,7 +16,7 @@ What can you expect from SMIDDY 2025?
 
 •	We are thrilled to welcome our two keynote speakers: **James Hay** will join us from the University of Oxford, and **Eva Bons** will join us from the European Centre for Disease Prevention and Control.
 
-•	Check out the [preliminary agenda](/docs/SMIDDYAgenda2025_FINAL.pdf).
+•	Check out the [final agenda](/docs/SMIDDYAgenda2025_FINAL.pdf).
 
 •	Location: **Rämistrasse 59, 8001 Zürich, second floor (RAA-G-01)**. The easiest way from Zurich main station is to take tram number 3 to Kunsthaus, and walk up 5 minutes."
 
