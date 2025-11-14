@@ -14,10 +14,10 @@ draft: false
    👉 [Katharina Kusejko](https://sniddy.ch/authors/katharina-kusejko/) on HIV modelling
 
 2. **Tuesday, December 16th, 1–2pm**  
-   👉 Anika John *(Best Poster Award at SMIDDY 2025)* on influenza A mdoelling
+   👉 Anika John *(Best Poster Award at SMIDDY 2025)* on influenza A modelling
 
 3. **Wednesday, January 28th, 1–2pm**  
-   👉 [Megan O'Driscoll](https://sniddy.ch/authors/megan-odriscoll/)
+   👉 [Megan O'Driscoll](https://sniddy.ch/authors/megan-odriscoll/) (topic TBA)
 
 4. **Thursday, February 19th, 1–2pm**  
    👉 Luzia Nora Felber *(Best Speed Talk Award at SMIDDY 2025)* on mosquito flight path modelling
