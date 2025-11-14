@@ -17,7 +17,7 @@ draft: false
    👉 Anika John *(Best Poster Award at SMIDDY 2025)* on influenza A modelling
 
 3. **Wednesday, January 28th, 1–2pm**  
-   👉 [Megan O'Driscoll](https://sniddy.ch/authors/megan-odriscoll/) (topic TBA)
+   👉 [Megan O'Driscoll](https://sniddy.ch/authors/megan-odriscoll/) on arbovirus serology 
 
 4. **Thursday, February 19th, 1–2pm**  
    👉 Luzia Nora Felber *(Best Speed Talk Award at SMIDDY 2025)* on mosquito flight path modelling
