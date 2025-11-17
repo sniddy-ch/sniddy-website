@@ -1,7 +1,7 @@
 ---
 title: "SNIDDY Seminar Series: First Dates Confirmed"
 date: 2025-11-14T20:00:00Z 
-image: "/images/seminar.png" 
+image: "/images/seminar.jpg" 
 categories: ["seminars"] 
 authors: ["Julien Riou"] 
 tags: ["us"] 
