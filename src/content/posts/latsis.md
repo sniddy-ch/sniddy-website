@@ -1,10 +1,10 @@
 ---
 title: "Latsis Symposium 2026: The history of epidemics – are there lessons for the future?"
-date: 2025-04-02T20:00:00Z 
+date: 2025-12-11T20:00:00Z 
 image: "/images/latsis.png" 
 categories: ["seminars"] 
 authors: ["Julien Riou"] 
-tags: ["us"] 
+tags: ["partner institutions"] 
 draft: false 
 ---
 
@@ -14,5 +14,6 @@ Speakers from a wide range of disciplines will discuss epidemics of the past, pr
 If you want to participate you need to register [here](https://latsis-epidemics.ethz.ch/).
 
 There are also limited opportunities to present a short talk or poster at the symposium. You can submit your application any time, but we will begin to review applications on the **15th of December**.
+
 More information, including a preliminary programme, the current list of speakers as well as the application form for attending can be found on the website: [https://latsis-epidemics.ethz.ch/](https://latsis-epidemics.ethz.ch/)
 
