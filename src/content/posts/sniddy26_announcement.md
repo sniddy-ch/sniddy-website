@@ -8,4 +8,4 @@ tags: ["us"]
 draft: false 
 ---
 
-After a very successful 2025 edition in Zurich, we are glad to announce that SMIDDY 2026 will be held in Geneva on **November 5**!
+After a very successful 2025 edition in Zurich, we are glad to announce that SMIDDY 2026 will be held in Geneva on **November 5**, 2026. Details will follow!
