@@ -22,6 +22,18 @@ draft: false
 4. **Thursday, February 19th, 1–2pm**  
    👉 Luzia Nora Felber *(Best Speed Talk Award at SMIDDY 2025)* on mosquito flight path modelling
 
+5. **Friday, March 13th, 1–2pm**  
+   👉 Diane Duroux on: Multimodal integration in clinical proteomics for early and personalized antimicrobial resistance detection
+
+6. **Monday, April 13th, 1–2pm**  
+   👉 [Joseph Lemaitre](https://sniddy.ch/authors/joseph-lemaitre/) on Influpaint: generative artificial intelligence for forecasting US seasonal influenza
+
+7. **Tuesday, May 19th, 1–2pm**  
+   👉 Nicolas Banholzer on: Bees, Penguins and Foxes – Roles in the Socio-Molecular Transmission Network of the Danish Population during the SARS-CoV-2 Pandemic
+
+8. **Wednesday, June 24th, 1–2pm**  
+   👉 Noémie Lefrancq  on: Estimating the rate of geographical spread of pathogens using pairwise genetic distance distributions
+   
 📩 **Save the dates and remember to [register](https://sniddy.ch/joinus/) to receive the links and join us online!**
 
 [Image generated with chatGPT]
