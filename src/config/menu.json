@@ -52,6 +52,10 @@
       "hasChildren": true,
       "children": [
         {
+          "name": "2026 registration",
+          "url": "/smiddy_2026"
+        },
+        {
           "name": "2025 edition",
           "url": "/smiddy_2025"
         }
