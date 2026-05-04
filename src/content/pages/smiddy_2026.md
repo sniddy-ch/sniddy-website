@@ -27,7 +27,7 @@ draft: false
 <p class="text-lg leading-8 text-dark">SMIDDY is a one-day meeting focused on the mathematical, computational, and statistical modeling of infectious diseases. It brings together researchers from across Switzerland and abroad, spanning fundamental research to public health policy-making.</p>
 </div>
 <div class="mb-10 rounded-lg bg-theme-light p-6 text-center">
-<p class="mb-5 text-lg text-dark">The 2026 edition of SMIDDY is hosted by the Geneva Disease Dynamics group. Register and submit your abstracts by 4 September 2026 to secure your place.</p>
+<p class="mb-5 text-lg text-dark">The 2026 edition of SMIDDY is hosted by the <a href="https://www.diseasedynamics.ch/" target="_blank" rel="noopener noreferrer" class="font-semibold text-primary hover:underline">Geneva Disease Dynamics group</a>. Register and submit your abstracts by 4 September 2026 to secure your place.</p>
 <a class="btn btn-primary" href="https://formulaire.unige.ch/outils/limebooking3/index.php/666615?lang=en" target="_blank" rel="noopener noreferrer">Register for SMIDDY 2026</a>
 </div>
 <h2 class="mb-5 text-xl font-bold text-dark">Keynote speakers</h2>
