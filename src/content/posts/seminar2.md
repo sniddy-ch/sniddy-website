@@ -8,7 +8,7 @@ tags: ["us"]
 draft: false 
 ---
 
-Our next online seminar will feature **Nicolas Banholzer** on Friday, March 13th 2026, 1–2pm
+Our next online seminar will feature **Nicolas Banholzer** from the University of Copenhagen on Friday, March 13th 2026, 1–2pm
 
 ![image](public/images/fox.png)
 
