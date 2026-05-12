@@ -1,7 +1,7 @@
 ---
 title: "SNIDDY Seminar Series: Ants, Bees, Penguins and Foxes"
 date: 2026-05-12T20:00:00Z 
-image: "/images/roles_graphic.pdf" 
+image: "/images/fox.png" 
 categories: ["seminars"] 
 authors: ["Julien Riou"] 
 tags: ["us"] 
@@ -10,7 +10,7 @@ draft: false
 
 Our next online seminar will feature **Nicolas Banholzer** on Friday, March 13th 2026, 1–2pm
 
-![image](public/images/sniddy_March.png)
+![image](public/images/fox.png)
 
 Title: *Ants, Bees, Penguins and Foxes – Roles in the Socio-Molecular Transmission Network of the Danish Population during the SARS-CoV-2 Pandemic*
 
