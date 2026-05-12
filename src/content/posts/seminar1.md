@@ -8,7 +8,7 @@ tags: ["us"]
 draft: false 
 ---
 
-Our next online seminar will feature **Diane Duroux** on Friday, March 13th 2026, 1–2pm
+Our next online seminar will feature **Diane Duroux** on Tuesday, May 19th 2026, 1–2pm
 
 ![image](public/images/sniddy_March.png)
 
