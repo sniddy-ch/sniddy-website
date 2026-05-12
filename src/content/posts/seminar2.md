@@ -1,7 +1,7 @@
 ---
 title: "SNIDDY Seminar Series: Ants, Bees, Penguins and Foxes"
 date: 2026-05-12T20:00:00Z 
-image: "/images/fox.png" 
+image: "/images/seminar.jpg" 
 categories: ["seminars"] 
 authors: ["Julien Riou"] 
 tags: ["us"] 
