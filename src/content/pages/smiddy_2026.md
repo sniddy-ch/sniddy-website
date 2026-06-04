@@ -30,14 +30,22 @@ draft: false
 <p class="mb-5 text-lg text-dark">The 2026 edition of SMIDDY is hosted by the <a href="https://www.diseasedynamics.ch/" target="_blank" rel="noopener noreferrer" class="font-semibold text-primary hover:underline">Geneva Disease Dynamics group</a>. Register and submit your abstracts by 4 September 2026 to secure your place.</p>
 <a class="btn btn-primary" href="https://formulaire.unige.ch/outils/limebooking3/index.php/666615?lang=en" target="_blank" rel="noopener noreferrer">Register for SMIDDY 2026</a>
 </div>
-<h2 class="mb-5 text-xl font-bold text-dark">Keynote speaker</h2>
-<div class="mb-10 max-w-md">
+<h2 class="mb-5 text-xl font-bold text-dark">Keynote speakers</h2>
+<div class="mb-10 grid gap-5 md:grid-cols-2">
 <article class="overflow-hidden rounded-lg border border-border bg-white">
 <img src="/images/smiddy-2026/rachel-lowe.jpeg" alt="Rachel Lowe" class="h-64 w-full object-cover" loading="lazy">
 <div class="p-5">
 <h3 class="mb-1 text-xl font-bold text-dark">Rachel Lowe</h3>
 <p class="mb-4 text-light">Barcelona Supercomputing Center</p>
 <a href="https://www.bsc.es/lowe-rachel" target="_blank" rel="noopener noreferrer" class="font-semibold text-primary hover:underline">View profile</a>
+</div>
+</article>
+<article class="overflow-hidden rounded-lg border border-border bg-white">
+<img src="/images/smiddy-2026/justin-lessler.jpg" alt="Justin Lessler" class="h-64 w-full object-cover" loading="lazy">
+<div class="p-5">
+<h3 class="mb-1 text-xl font-bold text-dark">Justin Lessler</h3>
+<p class="mb-4 text-light">University of North Carolina at Chapel Hill</p>
+<a href="https://sph.unc.edu/adv_profile/justin-lessler-phd/" target="_blank" rel="noopener noreferrer" class="font-semibold text-primary hover:underline">View profile</a>
 </div>
 </article>
 </div>
