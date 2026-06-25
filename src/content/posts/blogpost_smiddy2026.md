@@ -9,8 +9,6 @@ draft: false
 ---
 
 <div class="not-prose mx-auto max-w-3xl">
-<p class="mb-4 inline-flex rounded-md bg-theme-light px-3 py-1 text-sm font-semibold text-primary">Annual meeting</p>
-<p class="mb-8 text-lg text-light">Swiss Meeting for Infectious Disease Dynamics</p>
 <div class="mb-10 grid gap-4 md:grid-cols-3">
 <div class="rounded-lg border border-border bg-theme-light p-5">
 <p class="mb-2 text-xs font-semibold uppercase tracking-wide text-light">Date</p>
