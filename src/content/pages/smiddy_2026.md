@@ -1,7 +1,7 @@
 ---
 title: "SMIDDY 2026"
-meta_title: "Register for SMIDDY 2026"
-description: "Register for SMIDDY 2026, the Swiss Meeting for Infectious Disease Dynamics at Campus Biotech in Geneva."
+meta_title: "SMIDDY 2026"
+description: "SMIDDY 2026, the Swiss Meeting for Infectious Disease Dynamics at Campus Biotech in Geneva. Registration and abstract submission are closed."
 draft: false
 ---
 
@@ -28,8 +28,7 @@ draft: false
 <p class="text-lg leading-8 text-dark">This edition of SMIDDY promises to be a special event. We are excited to welcome two excellent keynote speakers — Professor Rachel Lowe and Professor Justin Lessler – as well as a special guest panel of public health decision makers that apply and interpret modeling evidence in their everyday work. We anticipate that the conference will take place from 9 am to 5:30 pm, followed by a networking apero event on-site.</p>
 </div>
 <div class="mb-10 rounded-lg bg-theme-light p-6 text-center">
-<p class="mb-5 text-lg text-dark">The 2026 edition of SMIDDY is hosted by the <a href="https://www.diseasedynamics.ch/" target="_blank" rel="noopener noreferrer" class="font-semibold text-primary hover:underline">Geneva Disease Dynamics group</a>. Abstract submission is closed but the registration form will remain open until we reach participant capacity. Spots are limited, so register today!</p>
-<a class="btn btn-primary" href="https://formulaire.unige.ch/outils/limebooking3/index.php/666615?lang=en" target="_blank" rel="noopener noreferrer">Register for SMIDDY 2026</a>
+<p class="text-lg text-dark">The 2026 edition of SMIDDY is hosted by the <a href="https://www.diseasedynamics.ch/" target="_blank" rel="noopener noreferrer" class="font-semibold text-primary hover:underline">Geneva Disease Dynamics group</a>. Registration and abstract submission are closed.</p>
 </div>
 <h2 class="mb-5 text-xl font-bold text-dark">Keynote speakers</h2>
 <div class="mb-10 grid gap-5 md:grid-cols-2">
