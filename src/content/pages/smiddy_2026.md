@@ -29,6 +29,7 @@ draft: false
 </div>
 <div class="mb-10 rounded-lg bg-theme-light p-6 text-center">
 <p class="text-lg text-dark">The 2026 edition of SMIDDY is hosted by the <a href="https://www.diseasedynamics.ch/" target="_blank" rel="noopener noreferrer" class="font-semibold text-primary hover:underline">Geneva Disease Dynamics group</a>. Registration and abstract submission are closed.</p>
+<p class="mt-5 text-lg text-dark">Check out the preliminary agenda <a href="/docs/SMIDDY2026_Agenda_preliminary_website.pdf" target="_blank" rel="noopener noreferrer" class="font-semibold text-primary underline">here</a>!</p>
 </div>
 <h2 class="mb-5 text-xl font-bold text-dark">Keynote speakers</h2>
 <div class="mb-10 grid gap-5 md:grid-cols-2">
