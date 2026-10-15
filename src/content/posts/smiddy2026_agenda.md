@@ -1,7 +1,7 @@
 ---
 title: "SMIDDY 2026 preliminary agenda is available"
 date: 2026-10-15T12:00:00Z
-image: "/images/campus_biotech.jpg"
+image: "/images/smiddy-2026/agenda-preview.png"
 categories: ["annual meeting"]
 authors: ["Julien Riou"]
 tags: ["us"]
